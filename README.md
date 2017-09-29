@@ -7,7 +7,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 
 [ ![Codeship Status for sethbergman/opc-redux](https://app.codeship.com/projects/8f061950-870f-0135-80bd-7e6e015d56ad/status?branch=master)](https://app.codeship.com/projects/248263)
 
-
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/opc-redux.svg)](https://greenkeeper.io/)
 
 - [Updating to New Releases](#updating-to-new-releases)
 - [Sending Feedback](#sending-feedback)
