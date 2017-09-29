@@ -1,6 +1,8 @@
 {
   "name": "opcf",
   "version": "0.1.0",
+  "homepage" : "http://opc-redux.npmstack.com",
+  "proxy": "http://localhost:4001",
   "private": true,
   "dependencies": {
     "humps": "^2.0.1",
